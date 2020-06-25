@@ -1,0 +1,1 @@
+This package converts from mailchimp webhook body to json format.
