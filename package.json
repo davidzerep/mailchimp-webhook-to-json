@@ -1,0 +1,19 @@
+{
+  "name": "mailchimp-webhook-to-json",
+  "version": "0.0.1",
+  "description": "This package takes a mailchimp webhook body and converts it to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/unit/"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "keywords": [
+    "mailchimp",
+    "json",
+    "node"
+  ],
+  "author": "David Pérez",
+  "license": "MIT"
+}
