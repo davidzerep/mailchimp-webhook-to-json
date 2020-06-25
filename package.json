@@ -15,5 +15,6 @@
     "node"
   ],
   "author": "David Pérez",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/davidzerep/mailchimp-webhook-to-json"
 }
